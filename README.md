@@ -2,7 +2,7 @@
 
 Welcome to the `bigdata` repository! This repository is designed as a learning platform for various big data technologies and practices. The primary goal is to explore and test different concepts and tools in the realm of big data, with a keen focus on Infrastructure as Code (IaaC) to deploy services on Google Cloud Platform (GCP), including but not limited to Google Cloud Storage (GCS) and Google Kubernetes Engine (GKE).
 
-Test
+Testing
 
 ## Key Features
 
